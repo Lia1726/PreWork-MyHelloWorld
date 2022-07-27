@@ -4,7 +4,8 @@ Submitted by: Lia Sudjana
 
 MuHelloWorld is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 2 hours spent in total
+Time spent: 
+1.5 hours spent in total (7/27/2022)
 
 ## Required Features
 
