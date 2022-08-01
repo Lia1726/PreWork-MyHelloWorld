@@ -2,10 +2,11 @@
 
 Submitted by: Lia Sudjana
 
-MuHelloWorld is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+MyHelloWorld is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: 
 1.5 hours spent in total (7/27/2022)
+3 hours spent in total (8/01/2022)
 
 ## Required Features
 
@@ -17,14 +18,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
- (Working to update this by the deadline!)
 * [ ] List anything else that you can get done to improve the app functionality!
+* [x] Button change to different color when pressed
+* [x] Buttons have a different color
+* [x] Buttons have a different shape
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://user-images.githubusercontent.com/79615054/181374447-18ed23d9-b677-47ee-b203-af3af9c015c7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/79615054/182251613-b7a5b8a5-e4dd-40c1-a9a7-60a01e42a979.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -37,6 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 - One of my emulations was not popping up for some reason, but I resolved it by creating a new one. I think my computer could have been running slow
+- When I was changing the button colors, I was struggling to change it from the default purple. The solution I found was to change Button to androidx.appcompat.widget.AppCompatButton.
 
 ## License
 
